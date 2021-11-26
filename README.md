@@ -2,7 +2,7 @@
 
 <!-- describe your project -->
 
-## Getting Started
+## Getting Started 
 
 <!-- a guide to using this repository -->
 
@@ -38,7 +38,9 @@ that your code will pass before pushing by running `npm run lint:md` locally.
 - Give each member _write_ access to the repo (if it's a group project)
 - Turn on GitHub Pages and put a link to your website in the repo's description
 - Turn on GitHub Actions
+  
 - in the _Branches_ section of your repo's settings make sure:
+
   - The repository
     [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
     before pull requests can be merged.
@@ -46,3 +48,8 @@ that your code will pass before pushing by running `npm run lint:md` locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+
+    <!--link--->
+    [achiekayuen](People/achieko.md)
+
+
